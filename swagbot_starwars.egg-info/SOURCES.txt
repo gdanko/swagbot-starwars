@@ -1,0 +1,9 @@
+setup.py
+swagbot/starwars_database.py
+swagbot/data/starwars.db
+swagbot/plugins/starwars.py
+swagbot_starwars.egg-info/PKG-INFO
+swagbot_starwars.egg-info/SOURCES.txt
+swagbot_starwars.egg-info/dependency_links.txt
+swagbot_starwars.egg-info/requires.txt
+swagbot_starwars.egg-info/top_level.txt
